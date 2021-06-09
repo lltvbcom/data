@@ -1,9 +1,0 @@
-<html>
-  <head>
-    <title>Bad Request</title>
-  </head>
-  <body>
-    <h1><p>Bad Request</p></h1>
-    Invalid HTTP Version &#x27;Invalid HTTP Version: &#x27;alt=&quot;é\x9d\x92æ\x98¥æ\x9c\x89ä½\xa0ç¬¬ä¸\x89å\xad£ HTTP/1.1&#x27;&#x27;
-  </body>
-</html>
